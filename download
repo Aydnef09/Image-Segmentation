@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+output/
+figures/
+results/
+images/
+ground_truth/
+*.png
+!docs/*.png
+.DS_Store
+.vscode/
+.idea/
